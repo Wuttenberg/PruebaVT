@@ -24,10 +24,10 @@ int main()
     return 0;
 }
 
-void vincentputo();
+void vincentputo()
 {
     char control='s';
-    while(control==s)
+    while(control=='s')
     {
         printf("vincent PUTASO");
     }
